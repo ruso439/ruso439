@@ -1,11 +1,13 @@
 ![](https://github.com/ruso439/ruso439/assets/92635274/48ee192c-2a8d-40c7-8128-6090e30aa99b)
 
 
-- 👋 Hi, I’m Diego Martin Matcovich 
-- 👀 I’m interested in JS, AI, oters
-- 🌱 I’m currently learning JS, Library. 
-- 💞️ I’m looking to collaborate on JS
+#👋Hi, I’m Diego M. M.
+- 👀 I’m interested in Python, SQL, JS, AI, oters
+- 🌱 I’m currently learning Python, Library. 
+- 💞️ I’m looking to collaborate on IA
 - 📫 How to reach me ruso439@gmail.com
+
+  
 
 <!---
 ruso439/ruso439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
