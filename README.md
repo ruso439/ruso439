@@ -1,3 +1,6 @@
+![74YE](https://github.com/ruso439/ruso439/assets/92635274/48ee192c-2a8d-40c7-8128-6090e30aa99b)
+
+
 - 👋 Hi, I’m Diego Martin Matcovich 
 - 👀 I’m interested in JS, AI, oters
 - 🌱 I’m currently learning JS, Library. 
