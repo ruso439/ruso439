@@ -5,6 +5,10 @@
 
 I'm passionate about Data Science and love solving complex problems and turning data into useful information.
 
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6c0c20ac09ec46cbd51521582029b5d550599b945bfc40d6aa0bc754f2e153d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f756e7472792d417267656e74696e612d3643414345343f267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d306130613061"><img src="https://camo.githubusercontent.com/a6c0c20ac09ec46cbd51521582029b5d550599b945bfc40d6aa0bc754f2e153d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f756e7472792d417267656e74696e612d3643414345343f267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d306130613061" alt="devto" data-canonical-src="https://img.shields.io/badge/country-Argentina-6CACE4?&amp;style=for-the-badge&amp;labelColor=0a0a0a" style="max-width: 100%;"></a>
+</div>
+
 ## Tools and Technologies
 
 Here are some of the tools, languages, and libraries I'm familiar with:
